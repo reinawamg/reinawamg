@@ -32,4 +32,11 @@ Web Developer & Data Analyst
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/xinrongreinawang/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/reinawang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/xinrongreinawang/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/reinawang"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reinawang&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="https://github.com/reinawang" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinawang&langs_count=10&title_color=3382ed&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
