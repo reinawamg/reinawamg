@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @reinawamg
-- 👀 I’m interested in computer science & data analytics.
-- 🌱 I’m currently learning JAVA, HTML, CSS, JS, etc.
-- 📫 How to reach me: reina.wang@outlook.com
+Hi 👋 My name is Reina Wang
+===========================
 
-<!---
-reinawamg/reinawamg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Web Developer & Data Analyst
+----------------------------
+
+* 🌍  I'm based in CN/US/CA
+* ✉️  You can contact me at [reina.wang@outlook.com](mailto:reina.wang@outlook.com)
+* 🤝  I'm open to collaborating on interesting projects
